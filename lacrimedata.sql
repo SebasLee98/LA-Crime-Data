@@ -1,2 +1,1 @@
-SELECT * FROM crime_data_from_2020_to_present WHERE `Vict Sex` = "M"
-
+SELECT * FROM crime_data_from_2020_to_present WHERE `Vict Sex` = "M" ORDER BY AREA DESC
